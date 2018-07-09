@@ -3,5 +3,4 @@
 
 ## 基本元件操作
 
-- 請參考[這一篇](/car basic.ipynb)
-
+- 請參考[這一篇](https://github.com/maloyang/MicroPython-Car/edit/master/car basic.ipynb)
