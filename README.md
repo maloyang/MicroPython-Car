@@ -6,7 +6,7 @@
 
 ## 基本元件操作
 
-### 請參考 <a href="https://github.com/maloyang/MicroPython-Car/edit/master/car basic.ipynb">這一篇</a>
+### 請參考[這一篇](car basic.ipynb)
 
 ### 將會用到：
 
