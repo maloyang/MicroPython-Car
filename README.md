@@ -6,7 +6,7 @@
 
 ## 基本元件操作
 
-### 請參考[這一篇](car basic.ipynb)
+### 請參考[這一篇](car_basic.ipynb)
 
 ### 將會用到：
 
